@@ -19,5 +19,14 @@ public class Payload {
 				+ "                \"tourist_email\": \""+Email()+"\",\r\n"
 				+ "                \"tourist_location\": \"Paris\"\r\n" + "}";
 	}
+	
+	public static String UpdatePayload(int id) {
+		return "{\r\n"
+				+ "\"id\": \""+id+"\",\r\n"
+				+ "\"tourist_name\": \"Update\",\r\n"
+				+ "\"tourist_email\": \""+Email()+"\",\r\n"
+				+ "\"tourist_location\": \"KTM\"\r\n"
+				+ "}";
+	}
 
 }
