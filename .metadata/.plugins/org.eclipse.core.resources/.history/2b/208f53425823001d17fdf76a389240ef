@@ -1,0 +1,16 @@
+package files;
+
+public class Payload {
+	
+	public String AddPayload() {
+		return "{\r\n"
+				+ "\r\n"
+				+ "                \"tourist_name\": \"Mike\",\r\n"
+				+ "                \"tourist_email\": \"mike123@gmail.com\",\r\n"
+				+ "                \"tourist_location\": \"Paris\"\r\n"
+				+ "}";
+	}
+
+}
+
+

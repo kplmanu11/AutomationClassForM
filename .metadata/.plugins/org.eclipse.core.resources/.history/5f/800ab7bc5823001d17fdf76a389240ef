@@ -1,0 +1,17 @@
+package files;
+
+public class Payload {
+	String emailTemp = "@gmail.com";
+	
+	public String AddPayload() {
+		return "{\r\n"
+				+ "\r\n"
+				+ "                \"tourist_name\": \"Mike\",\r\n"
+				+ "                \"tourist_email\": \"mans214@gmail.com\",\r\n"
+				+ "                \"tourist_location\": \"Paris\"\r\n"
+				+ "}";
+	}
+
+}
+
+
