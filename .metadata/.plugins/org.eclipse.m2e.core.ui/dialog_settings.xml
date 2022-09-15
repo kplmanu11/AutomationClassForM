@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="AutomateSite"/>
 			<item value="Testtoconvert"/>
 			<item value="RestAssuredDemo"/>
 			<item value="ResrAssuredDemo"/>
@@ -9,6 +10,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="AutomateSite"/>
 			<item value="Testtoconvert"/>
 			<item value="RestAssuredDemo"/>
 			<item value="ResrAssuredDemo"/>

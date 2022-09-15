@@ -1,9 +1,0 @@
-package files;
-
-public class Payload {
-	
-	public void AddPayload() {
-		return "";
-	}
-
-}
