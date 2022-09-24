@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-24T09:20:58 NPT" name="Suite" finished-at="2022-09-24T09:21:38 NPT" duration-ms="40498">
+    <groups>
+    </groups>
+    <test started-at="2022-09-24T09:20:58 NPT" name="Test" finished-at="2022-09-24T09:21:38 NPT" duration-ms="40498">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.HomePageTest@5b7a7f33]" started-at="2022-09-24T09:21:27 NPT" name="initializeThings" finished-at="2022-09-24T09:21:33 NPT" duration-ms="5608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeThings -->
+        <test-method signature="verifyAdminModuleisClickedProperly()[pri:0, instance:tests.HomePageTest@5b7a7f33]" started-at="2022-09-24T09:21:33 NPT" name="verifyAdminModuleisClickedProperly" finished-at="2022-09-24T09:21:38 NPT" duration-ms="4919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminModuleisClickedProperly -->
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.HomePageTest@5b7a7f33]" started-at="2022-09-24T09:21:38 NPT" name="teadDown" finished-at="2022-09-24T09:21:38 NPT" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- tests.HomePageTest -->
+      <class name="tests.LoginPageTest">
+        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:20:58 NPT" name="initializeThings" finished-at="2022-09-24T09:21:06 NPT" duration-ms="8347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeThings -->
+        <test-method signature="verifyTheForgotPasswordLinkWorkingProperly()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:21:06 NPT" name="verifyTheForgotPasswordLinkWorkingProperly" finished-at="2022-09-24T09:21:08 NPT" duration-ms="1834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheForgotPasswordLinkWorkingProperly -->
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:21:08 NPT" name="teadDown" finished-at="2022-09-24T09:21:09 NPT" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:21:09 NPT" name="initializeThings" finished-at="2022-09-24T09:21:13 NPT" duration-ms="4765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeThings -->
+        <test-method signature="verifyTheLoginLogoIsDisplayed()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:21:13 NPT" name="verifyTheLoginLogoIsDisplayed" finished-at="2022-09-24T09:21:14 NPT" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheLoginLogoIsDisplayed -->
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:21:14 NPT" name="teadDown" finished-at="2022-09-24T09:21:14 NPT" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+        <test-method is-config="true" signature="initializeThings()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:21:14 NPT" name="initializeThings" finished-at="2022-09-24T09:21:21 NPT" duration-ms="6645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeThings -->
+        <test-method signature="verifyTheUserIsAbleToLoginProperly()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:21:21 NPT" name="verifyTheUserIsAbleToLoginProperly" finished-at="2022-09-24T09:21:27 NPT" duration-ms="6152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheUserIsAbleToLoginProperly -->
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:tests.LoginPageTest@6c4906d3]" started-at="2022-09-24T09:21:27 NPT" name="teadDown" finished-at="2022-09-24T09:21:27 NPT" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- tests.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
